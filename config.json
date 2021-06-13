@@ -1,6 +1,6 @@
 {
 	"ip":"itzmateuz3598.aternos.me",
-	"port": "25565",
+	"port": "24339",
 	"name": "NRBot",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
